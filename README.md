@@ -5,5 +5,5 @@ This is the final project for "Genomics and Bioinformatics Studies for Physician
 Competition website:
 https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening
 
-Program website at Bar-Ilan University:
+Program website at Bar-Ilan University (Hebrew website):
 http://life-sciences.biu.ac.il/biomedin
